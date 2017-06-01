@@ -1,0 +1,7 @@
+1.clone 库到本地：git clone https://github.com/HaoxuZhang/github-using-ubuntu-.git
+2.在本地编写该库，例如新建文件"github-learning"
+3.cd至本地库
+4.git add github-learning
+5. git commit -m '该处填写说明'
+6.git push origin master将该文件推送至github
+
